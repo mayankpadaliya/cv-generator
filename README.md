@@ -1,6 +1,5 @@
 # CV Generator
 
-**Live demo:** https://your-site.example.com  
 **Demo video:** https://youtu.be/YourVideoID
 
 ## 📝 Overview
